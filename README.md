@@ -1,3 +1,11 @@
+angular_new.rar contains all the files, it is a zip folder,please use this to download..............
+
+
+
+
+
+
+
 # Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
